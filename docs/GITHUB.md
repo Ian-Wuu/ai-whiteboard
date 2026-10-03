@@ -18,6 +18,11 @@ Use [README.md](../README.md) as the default English introduction, with [README.
 
 | File | Purpose |
 | --- | --- |
+| [scene-design.jpg](assets/scene-design.jpg) | Prepared design-review scene with a generated room reference and editable annotations |
+| [scene-finance.jpg](assets/scene-finance.jpg) | Prepared rate comparison with a real 6% interest slider |
+| [scene-learning.jpg](assets/scene-learning.jpg) | Editable feedback-loop lesson beside an interactive timeline |
+| [scene-history.jpg](assets/scene-history.jpg) | Design scene viewed as a historical board |
+| [reading-room-reference.png](assets/reading-room-reference.png) | Imagegen-generated imaginary space used inside the design scene |
 | [logo.png](../public/logo.png) | White-background monochrome logo; also used as the browser icon |
 | [overview.jpg](assets/overview.jpg) | Actual whiteboard showing the four interactive templates |
 | [interactive.jpg](assets/interactive.jpg) | Actual focused interest-rate slider at 6% |
@@ -40,6 +45,20 @@ Flat vector-like artwork only. No text, letters, tagline, gradients, colors, sha
 ```
 
 The screenshots were captured from the local application at `http://127.0.0.1:5173/` through browser screenshots, using sample data. No generated mockups or fabricated conversation were used. No paid Qwen calls were needed for the captures.
+
+### Scene reference provenance
+
+The reading-room image is an imaginary architectural reference generated with the built-in imagegen tool. It was copied into this repository and inserted into the running editor. The scene screenshots use editable text/shapes and actual application controls; they are curated examples, not automatically generated AI responses. Comparison bars and diagrams are static annotations, not bound to widget state.
+
+Final reference-image prompt:
+
+```text
+Use case: photorealistic-natural.
+Asset type: reference photograph placed inside a real AI Whiteboard design-review demo, not a UI mockup.
+Primary request: a refined architectural photograph of an imaginary small reading room, curved white plaster wall, one recessed semicircular window with a deep reveal, a low stone bench, pale textured floor. Minimal, tactile, no people, restrained nearly monochrome warm-white and charcoal palette.
+Composition: horizontal 4:3 photograph, eye-level architectural lens, straight verticals, coherent plausible geometry, generous quiet planes. Window and soft geometric sunlight are the focal point. Elegant soft afternoon side light, subtle plaster grain, natural fine shadows. Editorial architecture photography, not glossy CGI.
+No text, annotations, diagrams, frames, branding, watermarks, furniture clutter, plants or bright colors. This is a single reference image, not a collage or interface.
+```
 
 ### Before publishing
 
@@ -66,6 +85,11 @@ The screenshots were captured from the local application at `http://127.0.0.1:51
 
 | 文件 | 用途 |
 | --- | --- |
+| [scene-design.jpg](assets/scene-design.jpg) | 设计讨论场景：生成的空间参考图与可编辑标注 |
+| [scene-finance.jpg](assets/scene-finance.jpg) | 利率对比场景，使用真实的 6% 互动滑块 |
+| [scene-learning.jpg](assets/scene-learning.jpg) | 可编辑反馈循环课程与真实时间线 |
+| [scene-history.jpg](assets/scene-history.jpg) | 以历史白板查看设计场景 |
+| [reading-room-reference.png](assets/reading-room-reference.png) | 板内使用的 imagegen 虚构空间参考图 |
 | [logo.png](../public/logo.png) | 白底黑色 Logo，也用于浏览器图标 |
 | [overview.jpg](assets/overview.jpg) | 四种互动模板的真实界面总览 |
 | [interactive.jpg](assets/interactive.jpg) | 利率为 6% 的组件放大视图 |
@@ -79,6 +103,12 @@ The screenshots were captured from the local application at `http://127.0.0.1:51
 Logo 由 imagegen 生成，不是从其他品牌提取；交付的是 PNG 位图，不是可编辑矢量文件。图形概念为开放的白板与一笔书写。不声称经过商标检索或享有排他权。完整生成提示词保留在上方英文部分，要求单个白底黑色几何标志、统一线条、留白、无文字、渐变或装饰。
 
 截图来自本地应用的浏览器截图，使用示例数据，不是生成式效果图，没有伪造 AI 对话；截图过程未调用付费千问服务。
+
+### 场景素材来源
+
+阅读空间是使用内置 imagegen 生成的虚构建筑参考图，已保存到仓库并放入真实编辑器。场景截图使用可编辑文字、图形和实际控件，是整理后的示例，不是自动生成的 AI 回答。对比条与流程图为静态标注，没有与组件数值自动绑定。
+
+完整参考图提示词见上方英文部分：极简阅读空间、弧形白色抹灰墙、深窗洞、低石凳、柔和自然侧光，无人物、文字、品牌或装饰性杂物；只生成板内参考图，不生成应用界面。
 
 ### 发布前
 

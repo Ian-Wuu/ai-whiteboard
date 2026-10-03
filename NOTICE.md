@@ -25,7 +25,7 @@ Because commercialization of the software is restricted, describe this project a
 - Dependencies such as React, Excalidraw, Vite, Zustand, Zod, and Fastify retain their own licenses. This project's restrictions do not replace the rights those licenses grant. Preserve upstream notices when redistributing bundled components.
 - Reference images remain the property of their respective rights holders. Search results and source links are not permission to reuse them commercially.
 - Alibaba Cloud and Qwen services are governed by their provider terms and billing. No affiliation or endorsement is claimed. The project does not grant rights to a provider's models, brands, or outputs beyond rights you otherwise have.
-- The project logo was AI-generated with imagegen. Use of the project-owned asset is subject to the project license to the extent rights exist; no trademark clearance or exclusivity is claimed. See [GitHub materials](docs/GITHUB.md) for provenance.
+- The project logo and the imaginary reading-room reference image were AI-generated with imagegen. Use of these project-owned assets is subject to the project license to the extent rights exist; no trademark clearance or exclusivity is claimed. See [GitHub materials](docs/GITHUB.md) for provenance.
 - README screenshots show this application with illustrative data, not real customer or financial records.
 
 ## 中文
@@ -51,5 +51,5 @@ Because commercialization of the software is restricted, describe this project a
 - React、Excalidraw、Vite、Zustand、Zod、Fastify 等依赖继续适用其原有许可。本项目限制不替代这些许可授予的权利；分发打包组件时须保留上游声明。
 - 参考图片的权利归原权利人。搜到图片、有来源链接，不等于已获商业使用许可。
 - 阿里云、千问服务适用其自身条款及计费规则，项目不声称获得官方背书，也不额外授予服务商模型、品牌或输出的使用权。
-- Logo 由 imagegen 生成。在存在相应权利的范围内，项目自有素材适用项目许可；不声称经过商标检索或拥有排他性。来源说明见 [GitHub 素材](docs/GITHUB.md)。
+- Logo 和虚构阅读空间参考图由 imagegen 生成。在存在相应权利的范围内，项目自有素材适用项目许可；不声称经过商标检索或拥有排他性。来源说明见 [GitHub 素材](docs/GITHUB.md)。
 - README 截图使用示例数据，不包含真实客户或财务记录。

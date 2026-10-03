@@ -9,7 +9,7 @@
 
 A locally running AI whiteboard prototype. Talk to Qwen in real time as it puts explanations on the board. Edit text, move objects, or change a parameter, and the AI receives the resulting board state.
 
-![Whiteboard overview: parameter slider, comparison switch, timeline, and calculator](docs/assets/overview.jpg)
+![A design-review board with a reading-room reference image and editable spatial annotations](docs/assets/scene-design.jpg)
 
 ## What it does
 
@@ -20,18 +20,31 @@ A locally running AI whiteboard prototype. Talk to Qwen in real time as it puts 
 - **Send precise feedback**: committed values, text, and positions enter the AI context; pointer movements are not streamed frame by frame.
 - **Keep boards and transcripts**: browse and edit history while the AI works on the current LIVE board by default. Boards, final transcripts, and interactive state are saved in your browser.
 
-## In pictures
+## Three ways to think together
 
-Draw a flow with editable text, shapes, and connecting arrows.
+### Explore a decision
 
-![A three-step flow drawn in the actual whiteboard editor](docs/assets/drawing.jpg)
+What does a change from 3% to 6% actually mean? Put the comparison beside a real, draggable interest-rate slider. Same principal, same term, a different monthly payment.
 
-| Images and notes | History and conversation panel |
-| --- | --- |
-| ![A manually inserted project logo beside editable notes](docs/assets/images.jpg) | ![An earlier board with Return to Live navigation and the empty transcript panel](docs/assets/history.jpg) |
-| Place an image next to your thinking. This example uses the project's own logo, inserted manually. | Revisit an earlier board and return to the current one. The transcript panel shown here is empty. |
+![Mortgage exploration with a 3-versus-6-percent comparison and a live slider](docs/assets/scene-finance.jpg)
 
-Four ways to explore an idea. Each widget opens in a focused view without losing its state.
+### Make a concept visible
+
+Use a room thermostat to explain a feedback loop: observe, compare, adjust, and repeat. Combine an editable diagram with a timeline widget that can send its selected stage to the AI.
+
+![Learning scene with a feedback-loop diagram, worked temperature example, and interactive timeline](docs/assets/scene-learning.jpg)
+
+### Discuss a design
+
+The opening image shows a reading-room study: a visual reference, a few observations about light and form, and a question to explore next. Return to an earlier board without losing the conversation workspace.
+
+![Revisiting the design study with history navigation and the empty transcript panel](docs/assets/scene-history.jpg)
+
+These are prepared example boards captured in the running app, not generated UI mockups or evidence of autonomous AI completion. The room reference was generated with imagegen and inserted manually; text and diagrams are editable annotations. Sliders and the timeline are real controls, but the surrounding diagrams and comparison bars do not automatically change with them. No conversation transcript was fabricated. See [asset provenance](docs/GITHUB.md).
+
+## A closer look at the controls
+
+Each widget opens in a focused view without losing its state.
 
 | Parameter slider | Comparison switch |
 | --- | --- |
