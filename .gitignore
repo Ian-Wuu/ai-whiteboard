@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.csv
+.ai-blackboard.pid
+.ai-blackboard.log
+*.log
+.DS_Store
+coverage/
+playwright-report/
+test-results/
+# Local planning files, not release documentation / 本地规划文件，不公开
+/PLAN.md
+/PLAN (1).md

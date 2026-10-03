@@ -1,0 +1,144 @@
+AI Whiteboard Source License 1.0
+AI Whiteboard 源码使用许可 1.0
+
+Copyright (c) 2026 AI Whiteboard contributors
+
+English terms
+
+1. Scope and definitions
+
+"Software" means the original code, documentation, and project-owned assets in
+this repository that the applicable copyright holder makes available under this
+license, including copies, modifications, derivative versions, and substantial
+portions of that material. Third-party material with its own license is excluded.
+
+"Outputs" means works created using the Software, such as drawings, diagrams,
+written content, presentations, screenshots, videos, and client deliverables.
+Outputs do not include the Software itself, modified versions, or substantial
+portions of its source or executable code. Merely depicting the Software's
+interface in a screenshot or video does not make that work a modified version.
+
+2. Permission to use and create commercial works
+
+Subject to these terms, you may use, run, study, copy, and modify the Software,
+including within a business or professional practice, to create Outputs for
+personal or commercial purposes. You may sell, publish, exhibit, license, and
+deliver those Outputs to clients, and charge for your creative or professional
+work. No fee or attribution to this project is required for Outputs.
+
+This license does not claim ownership of your Outputs. It does not grant rights
+to third-party images, model outputs, brands, or other material that you do not
+otherwise have permission to use. Provider terms and applicable law still apply.
+
+3. Noncommercial redistribution of the Software
+
+You may distribute copies or modified versions of the Software for
+noncommercial purposes, provided that you include this license and the
+applicable copyright and third-party notices, clearly identify your changes,
+and do not misrepresent a modified version as the original project.
+
+4. No commercialization of the Software
+
+Without separate written permission from the applicable copyright holder, you
+may not sell, rent, sublicense for a fee, or otherwise commercialize the Software
+itself, any modified version, or any substantial portion of its source or
+executable code as a product or service.
+
+This restriction includes selling source code or packaged applications; paid,
+subscription-based, advertising-supported, or otherwise monetized hosted
+versions or SaaS; white-label resale; and incorporating the Software or
+substantial portions of it into a commercial product or service. Offering a
+free tier does not exempt such a commercial product or service.
+
+Using the Software internally to create commercial Outputs, or showing it while
+presenting your work, is not by itself commercialization of the Software.
+Charging for access to the Software or its functionality is different from
+charging for the works you create with it, and is not permitted under this license.
+
+5. Other rights and obligations
+
+No trademark rights are granted, and you may not imply endorsement by the
+project or its contributors. Third-party components remain under their own
+licenses; these terms do not replace or restrict rights granted by those
+licenses. Each contributor grants only rights they are entitled to grant.
+No rights are granted except as expressly stated here. Rights that cannot be
+restricted under applicable law are unaffected.
+
+6. Termination
+
+Your permissions under this license terminate if you violate its terms.
+Termination does not remove obligations concerning prior distributions or
+infringements. Permission may be reinstated by the applicable copyright holder
+in writing.
+
+7. Disclaimer
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS",
+WITHOUT WARRANTY OF ANY KIND. THE COPYRIGHT HOLDERS AND CONTRIBUTORS ARE NOT
+LIABLE FOR CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR
+ITS USE.
+
+8. Language
+
+The English terms are the controlling version. The Chinese translation below
+is provided for convenience and does not expand or replace the English terms.
+
+
+中文译文
+
+1. 范围与定义
+
+“软件”是指本仓库中由相应著作权人依本许可提供的原创代码、文档及项目自有素材，
+包括其副本、修改版、衍生版本及实质性部分。另有许可的第三方材料不在此范围内。
+
+“产出作品”是指使用本软件创作的绘图、图表、文字、演示文稿、截图、视频、客户
+交付物等作品，不包括软件本身、修改版，或其源代码、可执行代码的实质性部分。
+截图或视频仅展示软件界面，不因此成为软件的修改版。
+
+2. 使用及创作商业作品的许可
+
+遵守本许可的前提下，你可以使用、运行、研究、复制和修改软件，包括在企业或
+专业工作中使用，以创作个人或商业用途的产出作品。你可以销售、发布、展出、
+许可或向客户交付这些作品，并就你的创作或专业工作收取费用。产出作品无需向
+本项目支付费用或标注本项目署名。
+
+本许可不主张拥有你的产出作品，也不会赋予你原本未取得的第三方图片、模型输出、
+品牌或其他材料的使用权。服务商条款及适用法律仍须遵守。
+
+3. 软件的非商业分发
+
+你可以为非商业目的分发软件副本或修改版，但须附带本许可、适用的版权和第三方
+声明，清楚说明修改，不得将修改版冒充为原项目。
+
+4. 禁止软件本体商业化
+
+未经相应著作权人另行书面许可，不得把软件本身、修改版，或其源代码、可执行
+代码的实质性部分作为产品或服务销售、出租、收费再许可或以其他方式商业化。
+
+禁止的情形包括：出售源码或打包应用；提供收费、订阅、广告支持或其他变现方式
+的托管版本或 SaaS；贴牌转售；将软件或其实质性部分集成到商业产品或服务中。
+商业产品或服务提供免费档位，不因此获得豁免。
+
+在内部使用本软件创作商业作品，或在展示作品时展示本软件，本身不属于软件
+商业化。对软件访问权或软件功能收费，不同于对使用软件创作的作品收费，前者
+不在本许可允许的范围内。
+
+5. 其他权利与义务
+
+本许可不授予商标权，不得暗示获得项目或贡献者背书。第三方组件继续适用其原有
+许可，本许可不替代或限制其原有许可授予的权利。每位贡献者仅授予其有权授予的
+权利。除明确授予的权利外，不授予其他权利；适用法律规定不得限制的权利不受影响。
+
+6. 终止
+
+违反本许可时，依本许可取得的权限终止。终止不免除既往分发或侵权相关义务。
+相应著作权人可以通过书面方式恢复许可。
+
+7. 免责声明
+
+在适用法律允许的范围内，软件按“现状”提供，不作任何担保。著作权人及贡献者
+不对因软件或其使用产生的索赔、损害或其他责任负责。
+
+8. 语言
+
+以英文条款为准。中文译文仅为阅读便利，不扩展或替代英文条款。
